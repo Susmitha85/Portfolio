@@ -2,7 +2,8 @@
 
 # 🌐 Susmitha Thokada - Portfolio Website
 
-Welcome to my personal portfolio website! This project is a showcase of my journey as a Computer Science student, including my skills, projects, internships, and contact details. Built with HTML, CSS, JavaScript, and Bootstrap, this site is designed to be responsive, informative, and visually appealing.
+This repository contains the source code for my personal portfolio website — a dynamic and responsive platform to showcase my skills, academic background, projects, and professional experience in the field of Computer Science and Engineering.
+
 
 ---
 
@@ -45,5 +46,8 @@ This portfolio represents **Susmitha Thokada**, a tech-enthusiast passionate abo
    ```bash
    git clone https://github.com/Susmitha85/portfolio.git
 
-   Or 
-visit Website: https://susmitha85.github.io/Portfolio/
+   Or
+
+2.🔗 Live Demo
+
+> https://susmitha85.github.io/Portfolio/ — The site will be deployed on GitHub Pages.
