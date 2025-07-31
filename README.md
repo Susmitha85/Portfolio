@@ -21,7 +21,8 @@ This portfolio represents **Susmitha Thokada**, a tech-enthusiast passionate abo
 
 ---
 
-portfolio/
+**portfolio/**
+
 -│
 -├── index.html # Main HTML structure
 -├── style.css # Custom styling
