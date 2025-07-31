@@ -54,7 +54,6 @@ This portfolio represents **Susmitha Thokada**, a tech-enthusiast passionate abo
    ```bash
    git clone https://github.com/Susmitha85/portfolio.git
 
-   Or
 
 2.🔗 Live Demo
 
