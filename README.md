@@ -23,11 +23,11 @@ This portfolio represents **Susmitha Thokada**, a tech-enthusiast passionate abo
 
 **portfolio/**
 
--│
--├── index.html # Main HTML structure
--├── style.css # Custom styling
--├── /assets # Images, animations, and resources
--└── README.md # Project overview
+- │
+- ├── index.html # Main HTML structure
+- ├── style.css # Custom styling
+- ├── /assets # Images, animations, and resources
+- └── README.md # Project overview
 
 ## 🛠️ Technologies Used
 
