@@ -9,7 +9,7 @@ This repository contains the source code for my personal portfolio website — a
 
 ## 📌 Project Description
 
-This portfolio represents **Susmitha Thokada**, a tech-enthusiast passionate about **Web Development, AI/ML, Cloud Computing, and Continuous Learning**. The website serves as a digital resume and project gallery.
+This portfolio represents My (**Susmitha Thokada**), a tech-enthusiast passionate about **Web Development, AI/ML, Cloud Computing, and Continuous Learning**. The website serves as a digital resume and project gallery.
 
 **Features:**
 - Smooth navigation between sections
